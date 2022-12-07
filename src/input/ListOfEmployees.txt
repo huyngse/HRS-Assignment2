@@ -1,0 +1,17 @@
+1,D01,Stanislava Tadija,Potato,5,1800000
+2,D02,Chibuike Klement,Potato,2,1400000
+3,D03,Britton Eira,Potato,4,1300000
+4,D04,Phobos Rabiu,Banana,2,1700000
+5,D05,Aline Waldobert,Banana,1,2000000
+6,D06,Karina Jase,Apple,10,1200000
+7,D07,Jayanta Tullio,Apple,7,2000000
+8,D08,Thoukydides Lumusi,Apple,2,400000
+9,D09,Yared Mary Jane,Apple,4,1800000
+10,D10,Rolando Hidayat,Potato,2,L,0.2,2200000
+11,D11,Richa Lysandros,Banana,3,L,0.4,3600000
+12,D12,Ioses Arantzazu,Apple,0,L,0.2,2000000
+13,T01,Huguette Wulfsige,0,AT,1100000
+14,T02,Georgina Deimos,0.8,MT,2000000
+15,T03,Susanna Bojana,0.7,MT,900000
+16,T04,Xuan Dung,0.6,MT,1100000
+17,T05,Nhung Thi,0.4,AT,1600000

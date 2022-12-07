@@ -1,0 +1,4 @@
+D03_Britton Eira_1300000_Potato_[C++, HTML]_4
+D07_Jayanta Tullio_2000000_Apple_[C++, Java]_7
+D10_Rolando Hidayat_2200000_Potato_[C++, HTML]_2
+D12_Ioses Arantzazu_2000000_Apple_[Java, C++]_0

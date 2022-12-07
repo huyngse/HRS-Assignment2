@@ -1,0 +1,6 @@
+D01_Stanislava Tadija_1800000_Potato_[Python]_5
+D03_Britton Eira_1300000_Potato_[C++, HTML]_4
+D06_Karina Jase_1200000_Apple_[Python, C]_10
+D07_Jayanta Tullio_2000000_Apple_[C++, Java]_7
+D09_Yared Mary Jane_1800000_Apple_[HTML, Python]_4
+D11_Richa Lysandros_3600000_Banana_[Java, C]_3
